@@ -1,0 +1,13 @@
+{
+  "name": "muhammad-muhid-portfolio",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.cjs",
+    "dev": "node scripts/dev.cjs",
+    "preview": "node scripts/serve.cjs"
+  },
+  "devDependencies": { "typescript": "5.8.3" },
+  "engines": { "node": ">=20.0.0" }
+}
